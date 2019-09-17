@@ -1,0 +1,36 @@
+===============================================
+FUNCIONAMENT DELS MODIFICADORS
+===============================================
+
+1.- Modificador Stop
+	Atura la bola (o boles) durant 5 segons.
+
+2.- Modificador Vida
+	Incrementa en 1 el número de vides.
+
+3.- Modificador de Moviment (Propi)
+	Canvia els controls de joc, prement la fletxa 
+	esquerra, la nau vaus es moura cap a la dreta
+	i a l'inrevés.
+	Per que aquest modificador tingui alguna cosa
+	positiva (sino no l'utilitzaria ningú), els
+	punts obtinguts de destruir blocs del mur 
+	mentre el modificador esta activat es 
+	multiplicaran x2.
+
+4.- Modificador Bola Doble
+	S'afegeix una bola independent al joc
+
+5.- Modificador Glue (Propi)
+	La pilota canvia de color per indicarnos
+	que esta impregnada de pegamento. A partir
+	d'ara, al toca la nau vaus, la bola quedara
+	enganxada. Per tornar a posar la bola en marxa
+	haurem de prèmer la tecla UP.
+	Podem desactivar aquest modificador
+	prement la tecla Down.
+
+=================================================
+
+Els modificadors Glue i Bola Doble no poden estar activats simultaniament. Per això hem afegit l'opcio de desactivar el mod glue quan volguem
+prement la tecla DOWN.
